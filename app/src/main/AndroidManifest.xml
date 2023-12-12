@@ -39,7 +39,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCkBrntn9J6X5D0yHoaG45ceNnff-zW6O8" />
+            android:value="" />
 
         <activity
             android:name=".lobby"
